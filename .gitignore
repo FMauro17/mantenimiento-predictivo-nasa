@@ -1,0 +1,9 @@
+# Datasets de la NASA — no se suben (son de terceros, se linkean en el README)
+6. Turbofan*/
+*.txt
+
+# Archivos del sistema de Mac
+.DS_Store
+
+# Checkpoints de Jupyter / Colab
+.ipynb_checkpoints/
